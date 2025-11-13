@@ -1,1 +1,1 @@
-background-image: url('../img/main-bg.svg');
+- https://allineeee.github.io/landing_page/
